@@ -1,10 +1,13 @@
 <script lang="ts">
-  import ColorTable from "./lib/ColorTable.svelte";
+  import ColorCalculator from "./lib/ColorCalculator.svelte";
+  import ColorPalette from "./lib/ColorPalette.svelte";
 </script>
 
 <main>
   <div>
-    <ColorTable />
+    <ColorCalculator />
+    <br />
+    <ColorPalette />
   </div>
 </main>
 
