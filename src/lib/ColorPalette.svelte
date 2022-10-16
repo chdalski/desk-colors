@@ -11,15 +11,21 @@
 <br />
 <ColorTable colorName="sapphire" colorHex="#0f35b5" />
 <br />
+<ColorTable colorName="sapphire-light" colorHex="#0f53f0" />
+<br />
 <ColorTable colorName="fancy-yellow" colorHex="#fcd22a" />
 <br />
 <ColorTable colorName="amber" colorHex="#d89507" />
 <br />
 <ColorTable colorName="ruby" colorHex="#d90d01" />
 <br />
+<ColorTable colorName="ruby-light" colorHex="#ec092b" />
+<br />
 <ColorTable colorName="garnet" colorHex="#ef003b" />
 <br />
 <ColorTable colorName="amethyst-purple" colorHex="#9e0dd9" />
+<br />
+<ColorTable colorName="onyx-scale" colorHex="#b7b9bd" />
 <br />
 
 <h1>Base Color Palette</h1>
