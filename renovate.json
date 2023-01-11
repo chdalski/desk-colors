@@ -11,6 +11,12 @@
     "group:allNonMajor",
     "group:definitelyTyped"
   ],
+  "logLevel": "debug",
+  "automerge": true,
+  "automergeType": "branch",
+  "major": {
+    "automerge": false
+  },
   "packageRules": [
     {
       "description": "lockFileMaintenance",
