@@ -15,7 +15,7 @@
 <br />
 <ColorTable colorName="fancy-yellow" colorHex="#fcd22a" />
 <br />
-<ColorTable colorName="amber" colorHex="#d89507" />
+<ColorTable colorName="amber" colorHex="#e75618" />
 <br />
 <ColorTable colorName="ruby" colorHex="#d90d01" />
 <br />
